@@ -1,0 +1,37 @@
+*{list-style-type: square;
+}
+h1,h2,h3,h4,h5{
+
+  color:green;
+  font-size: 1.5em
+
+}
+table,td{
+  border: 1px solid black;
+}
+th{
+  border: 1px solid black;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+blockquote{
+  background-color: purple;
+  color: white;
+}
+form>ul>li{list-style-type:none;}
+
+#teamRoster>li:first-child{
+background-image: url("broncosedited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#teamRoster>li:last-child{
+background-image: url("bearsedited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+a:hover{
+  background-color: green;
+  text-decoration: none;
+}
