@@ -22,12 +22,12 @@ blockquote{
 form>ul>li{list-style-type:none;}
 
 #teamRoster>li:first-child{
-background-image: url("broncosedited.png");
+background-image: url("https://preview.ibb.co/dGG6LF/broncosedited.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
 #teamRoster>li:last-child{
-background-image: url("bearsedited.png");
+background-image: url("https://preview.ibb.co/kcHkEa/bearsedited.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
